@@ -1,43 +1,46 @@
 fileFormatVersion: 2
-guid: e4e66e2de0cfcf84cb263625ae3b4fab
+guid: 086e324143d74a84f8a928ee69a3b17c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4037373491742882510
-    second: Void demon_0
+      213: 6723963429988506304
+    second: Spikes_0
   - first:
-      213: 75459812832703109
-    second: Void demon_1
+      213: -7010832575621253078
+    second: Spikes_1
   - first:
-      213: -1807527347219269187
-    second: Void demon_2
+      213: 8562923692314260799
+    second: Spikes_2
   - first:
-      213: -8342371645961808795
-    second: Void demon_3
+      213: -4810244237682102619
+    second: Spikes_3
   - first:
-      213: 2846477272125548001
-    second: Void demon_4
+      213: -3644641957871353732
+    second: Spikes_4
   - first:
-      213: -2532395562220919526
-    second: Void demon_5
+      213: 7573331673453511767
+    second: Spikes_5
   - first:
-      213: 7922218248961654287
-    second: Void demon_6
+      213: -138403667897052782
+    second: Spikes_6
   - first:
-      213: -5478455604230627225
-    second: Void demon_7
+      213: 3455471295796217898
+    second: Spikes_7
   - first:
-      213: 6324416604939875680
-    second: Void demon_8
+      213: -3787672316652677526
+    second: Spikes_8
   - first:
-      213: -3999419782492120765
-    second: Void demon_9
+      213: -3189035499719957858
+    second: Spikes_9
   - first:
-      213: 3044928561323742939
-    second: Void demon_10
+      213: -6953474909685209652
+    second: Spikes_10
   - first:
-      213: 2996117184177481455
-    second: Void demon_11
+      213: -1634528030429151649
+    second: Spikes_11
+  - first:
+      213: 6406074429159457002
+    second: Spikes_12
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -146,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Void demon_0
+      name: Spikes_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
-        width: 128
-        height: 128
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff243c736204ea348b08e399c28d0819
-      internalID: -4037373491742882510
+      spriteID: d451cf00557aa664fba93dcf3e6839ae
+      internalID: 6723963429988506304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_1
+      name: Spikes_1
       rect:
         serializedVersion: 2
-        x: 128
-        y: 384
-        width: 128
-        height: 128
+        x: 32
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63903a88d5c24dd45a3fa934f89c4e99
-      internalID: 75459812832703109
+      spriteID: 308dd8138b7c08b4790a1edc6aaeded5
+      internalID: -7010832575621253078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_2
+      name: Spikes_2
       rect:
         serializedVersion: 2
-        x: 256
-        y: 384
-        width: 128
-        height: 128
+        x: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5716115b155f670489341f0f375acb47
-      internalID: -1807527347219269187
+      spriteID: 6e8c7ead63bf4ca46b1c3a4e0afa63bb
+      internalID: 8562923692314260799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_3
+      name: Spikes_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 256
-        width: 128
-        height: 128
+        x: 96
+        y: 96
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,62 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5e5247eabde96f46acd3580d4cf6ec4
-      internalID: -8342371645961808795
+      spriteID: 6353f3f24937ce34dbe60c55cfe26c50
+      internalID: -4810244237682102619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae31d207afffb2940b1766b4a70ae956
-      internalID: 2846477272125548001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_5
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bedd20cc457aa344b1b1269b5a68b50
-      internalID: -2532395562220919526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_6
+      name: Spikes_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 128
-        height: 128
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92d53602a7de48e4aac9d00bff721654
-      internalID: 7922218248961654287
+      spriteID: 3b211f092e43c2d47adfc1d17f4eac21
+      internalID: -3644641957871353732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_7
+      name: Spikes_5
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 128
-        height: 128
+        x: 32
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fcf143c01d91dc4dbc2861c65674cee
-      internalID: -5478455604230627225
+      spriteID: 147c389439dbe5b44b68cd475b7ef652
+      internalID: 7573331673453511767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_8
+      name: Spikes_6
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 128
-        height: 128
+        x: 64
+        y: 64
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +289,125 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef6b2eb33821f7e49b1f76e3067b9955
-      internalID: 6324416604939875680
+      spriteID: eb839c4b74a88dc4ab34f49f92ded737
+      internalID: -138403667897052782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_9
+      name: Spikes_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a0bad301a7894c84fefd69dcf551a
+      internalID: 3455471295796217898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315b99de3189d14f8a47d1a678e48a0
+      internalID: -3787672316652677526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcffd0fd16fce0f49bfb4d4dba2e9ca6
+      internalID: -3189035499719957858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea3762cba564848bbda3fda2dd5eff
+      internalID: -6953474909685209652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d07d46cb1c6d4a9b782a1d3381894
+      internalID: -1634528030429151649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 128
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,50 +415,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1af0fe56f7e650a4ab9fe69aa06006d4
-      internalID: -3999419782492120765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_10
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcedecff5ce2b4f4e87aebf627283360
-      internalID: 3044928561323742939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_11
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7be54992712a64c4fbe0fc256e3a8b6d
-      internalID: 2996117184177481455
+      spriteID: 4b01c620f10c81841817ad0db7f86847
+      internalID: 6406074429159457002
       vertices: []
       indices: 
       edges: []

@@ -1,43 +1,49 @@
 fileFormatVersion: 2
-guid: e4e66e2de0cfcf84cb263625ae3b4fab
+guid: eda969fd7f566cd42ab4bd2fffc7cb2a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4037373491742882510
-    second: Void demon_0
+      213: 3615432073142515688
+    second: rock ground_0
   - first:
-      213: 75459812832703109
-    second: Void demon_1
+      213: -4144122179309997861
+    second: rock ground_1
   - first:
-      213: -1807527347219269187
-    second: Void demon_2
+      213: 414995521559321761
+    second: rock ground_2
   - first:
-      213: -8342371645961808795
-    second: Void demon_3
+      213: 6820566190585708448
+    second: rock ground_3
   - first:
-      213: 2846477272125548001
-    second: Void demon_4
+      213: 8422595313567108081
+    second: rock ground_4
   - first:
-      213: -2532395562220919526
-    second: Void demon_5
+      213: -585860209694790236
+    second: rock ground_5
   - first:
-      213: 7922218248961654287
-    second: Void demon_6
+      213: 954752906154088993
+    second: rock ground_6
   - first:
-      213: -5478455604230627225
-    second: Void demon_7
+      213: -3733219132445196699
+    second: rock ground_7
   - first:
-      213: 6324416604939875680
-    second: Void demon_8
+      213: -8655324792642647612
+    second: rock ground_8
   - first:
-      213: -3999419782492120765
-    second: Void demon_9
+      213: 2516444309428219981
+    second: rock ground_9
   - first:
-      213: 3044928561323742939
-    second: Void demon_10
+      213: 6758187439334715990
+    second: rock ground_10
   - first:
-      213: 2996117184177481455
-    second: Void demon_11
+      213: -8638565485394653962
+    second: rock ground_11
+  - first:
+      213: -7332014398300476950
+    second: rock ground_12
+  - first:
+      213: -4561172563884016307
+    second: rock ground_13
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -81,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -146,7 +152,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Void demon_0
+      name: rock ground_0
       rect:
         serializedVersion: 2
         x: 0
@@ -160,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff243c736204ea348b08e399c28d0819
-      internalID: -4037373491742882510
+      spriteID: e30531334b3f29649ad2519aa211755b
+      internalID: 3615432073142515688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_1
+      name: rock ground_1
       rect:
         serializedVersion: 2
         x: 128
@@ -181,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63903a88d5c24dd45a3fa934f89c4e99
-      internalID: 75459812832703109
+      spriteID: 1216b02a0f1e242408ca5ef738210ee7
+      internalID: -4144122179309997861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_2
+      name: rock ground_2
       rect:
         serializedVersion: 2
         x: 256
@@ -202,14 +208,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5716115b155f670489341f0f375acb47
-      internalID: -1807527347219269187
+      spriteID: 1e68c9bacb7eba34cabc5bc17f322bd3
+      internalID: 414995521559321761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_3
+      name: rock ground_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f263d44b6c29e449d8a7c96bdce40c
+      internalID: 6820566190585708448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock ground_4
       rect:
         serializedVersion: 2
         x: 0
@@ -223,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5e5247eabde96f46acd3580d4cf6ec4
-      internalID: -8342371645961808795
+      spriteID: bb4ab80c7dceed245bf072de3acd1863
+      internalID: 8422595313567108081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_4
+      name: rock ground_5
       rect:
         serializedVersion: 2
         x: 128
@@ -244,14 +271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae31d207afffb2940b1766b4a70ae956
-      internalID: 2846477272125548001
+      spriteID: 40fdd87cd989ffb47a3ccccae061208a
+      internalID: -585860209694790236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_5
+      name: rock ground_6
       rect:
         serializedVersion: 2
         x: 256
@@ -265,14 +292,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bedd20cc457aa344b1b1269b5a68b50
-      internalID: -2532395562220919526
+      spriteID: 7dbe40cea5c151346a3f8bbbba30a79b
+      internalID: 954752906154088993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_6
+      name: rock ground_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f1b35ba4e4fe4e8e379704758df91
+      internalID: -3733219132445196699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock ground_8
       rect:
         serializedVersion: 2
         x: 0
@@ -286,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92d53602a7de48e4aac9d00bff721654
-      internalID: 7922218248961654287
+      spriteID: 7904fa675f4372443aaa58a84338323f
+      internalID: -8655324792642647612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_7
+      name: rock ground_9
       rect:
         serializedVersion: 2
         x: 128
@@ -307,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fcf143c01d91dc4dbc2861c65674cee
-      internalID: -5478455604230627225
+      spriteID: a34a09767c7f54c47a89c39f9c986934
+      internalID: 2516444309428219981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_8
+      name: rock ground_10
       rect:
         serializedVersion: 2
         x: 256
@@ -328,14 +376,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef6b2eb33821f7e49b1f76e3067b9955
-      internalID: 6324416604939875680
+      spriteID: 9236159f39d4d7c42b31252beccd2093
+      internalID: 6758187439334715990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_9
+      name: rock ground_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18bb08d8811c1b4086a757183c5749a
+      internalID: -8638565485394653962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock ground_12
       rect:
         serializedVersion: 2
         x: 0
@@ -349,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1af0fe56f7e650a4ab9fe69aa06006d4
-      internalID: -3999419782492120765
+      spriteID: 30d5b6d31cde97745ad76e3b7c277193
+      internalID: -7332014398300476950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_10
+      name: rock ground_13
       rect:
         serializedVersion: 2
         x: 128
@@ -370,29 +439,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcedecff5ce2b4f4e87aebf627283360
-      internalID: 3044928561323742939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_11
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7be54992712a64c4fbe0fc256e3a8b6d
-      internalID: 2996117184177481455
+      spriteID: 2f8f7af522d3bf54098ab5dbc299de67
+      internalID: -4561172563884016307
       vertices: []
       indices: 
       edges: []

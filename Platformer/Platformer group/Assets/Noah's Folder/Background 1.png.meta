@@ -1,43 +1,25 @@
 fileFormatVersion: 2
-guid: e4e66e2de0cfcf84cb263625ae3b4fab
+guid: 86dcd3e8f5852a142bc0156e71b11520
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4037373491742882510
-    second: Void demon_0
+      213: -7790544929387226549
+    second: Background 1_0
   - first:
-      213: 75459812832703109
-    second: Void demon_1
+      213: -5937887645930863140
+    second: Background 1_1
   - first:
-      213: -1807527347219269187
-    second: Void demon_2
+      213: 5393971747151039009
+    second: Background 1_2
   - first:
-      213: -8342371645961808795
-    second: Void demon_3
+      213: 5444537502011390114
+    second: Background 1_3
   - first:
-      213: 2846477272125548001
-    second: Void demon_4
+      213: -8200829610017290467
+    second: Background 1_4
   - first:
-      213: -2532395562220919526
-    second: Void demon_5
-  - first:
-      213: 7922218248961654287
-    second: Void demon_6
-  - first:
-      213: -5478455604230627225
-    second: Void demon_7
-  - first:
-      213: 6324416604939875680
-    second: Void demon_8
-  - first:
-      213: -3999419782492120765
-    second: Void demon_9
-  - first:
-      213: 3044928561323742939
-    second: Void demon_10
-  - first:
-      213: 2996117184177481455
-    second: Void demon_11
+      213: -421209468273406977
+    second: Background 1_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -81,7 +63,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 5.01
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -146,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Void demon_0
+      name: Background 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 384
-        width: 128
-        height: 128
+        y: 430
+        width: 512
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,62 +142,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff243c736204ea348b08e399c28d0819
-      internalID: -4037373491742882510
+      spriteID: ceba4155dabe681449d9a27cc7281cb4
+      internalID: -7790544929387226549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_1
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 384
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63903a88d5c24dd45a3fa934f89c4e99
-      internalID: 75459812832703109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_2
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 384
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5716115b155f670489341f0f375acb47
-      internalID: -1807527347219269187
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_3
+      name: Background 1_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 256
-        width: 128
-        height: 128
+        y: 344
+        width: 512
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,62 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5e5247eabde96f46acd3580d4cf6ec4
-      internalID: -8342371645961808795
+      spriteID: 6d4a85ea268b9aa4999d9292bdd799c4
+      internalID: -5937887645930863140
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae31d207afffb2940b1766b4a70ae956
-      internalID: 2846477272125548001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_5
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1bedd20cc457aa344b1b1269b5a68b50
-      internalID: -2532395562220919526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_6
+      name: Background 1_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 128
-        width: 128
-        height: 128
+        y: 258
+        width: 512
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92d53602a7de48e4aac9d00bff721654
-      internalID: 7922218248961654287
+      spriteID: d9391e41ff041da4b9f3017e08dddd66
+      internalID: 5393971747151039009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_7
+      name: Background 1_3
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 128
-        height: 128
+        x: 0
+        y: 172
+        width: 512
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fcf143c01d91dc4dbc2861c65674cee
-      internalID: -5478455604230627225
+      spriteID: 078c85909d522424c96155342ab625ce
+      internalID: 5444537502011390114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_8
+      name: Background 1_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 128
-        height: 128
+        x: 0
+        y: 86
+        width: 512
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef6b2eb33821f7e49b1f76e3067b9955
-      internalID: 6324416604939875680
+      spriteID: 83a909a9535b43f42a24bfbd9bba4c76
+      internalID: -8200829610017290467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Void demon_9
+      name: Background 1_5
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 128
+        width: 512
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,50 +247,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1af0fe56f7e650a4ab9fe69aa06006d4
-      internalID: -3999419782492120765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_10
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcedecff5ce2b4f4e87aebf627283360
-      internalID: 3044928561323742939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Void demon_11
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7be54992712a64c4fbe0fc256e3a8b6d
-      internalID: 2996117184177481455
+      spriteID: 58c72063cf1cee14f8cf51753c34cb6a
+      internalID: -421209468273406977
       vertices: []
       indices: 
       edges: []
