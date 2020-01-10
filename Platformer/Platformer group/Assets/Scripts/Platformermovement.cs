@@ -21,7 +21,16 @@ public class Platformermovement : MonoBehaviour
         Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
         velocity.x = moveX * moveSpeed;
         GetComponent<Rigidbody2D>().velocity = velocity;
-        if(Input.GetButtonDown("Jump") && grounded)
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            moveSpeed = 10;
+        }
+        else
+        {
+            moveSpeed = 6;
+        }
+
+        if (Input.GetButtonDown("Jump") && grounded)
         {
             jump();
             
