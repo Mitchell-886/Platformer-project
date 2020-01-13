@@ -23,7 +23,7 @@ public class Platformermovement : MonoBehaviour
         GetComponent<Rigidbody2D>().velocity = velocity;
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            moveSpeed = 10;
+            moveSpeed = 9;
         }
         else
         {
