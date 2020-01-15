@@ -85,4 +85,13 @@ public class Platformermovement : MonoBehaviour
             anim.SetBool("grounded", grounded);
         }
     }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.gameObject.layer == 0)
+        {
+            grounded = true;
+            anim.SetBool("grounded", grounded);
+        }
+    }
+
 }
