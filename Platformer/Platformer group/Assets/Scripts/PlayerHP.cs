@@ -43,7 +43,7 @@ public class PlayerHP : MonoBehaviour
         if (collision.gameObject.tag == "EnemyBullet")
         {
             {
-                health = health - 5;
+                health = health - 3;
                 HP.text = "Health: " + health;
                 Healthslider.value = health;
                 if (health < 1)
@@ -71,11 +71,11 @@ public class PlayerHP : MonoBehaviour
         }
         if (collision.gameObject.tag == "Spike")
         {
-            health = health - 3;
+            health = health - 10;
             if (health < 1)
             {
                 {
-                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+                    SceneManager.LoadScene("Death");
                 }
             }
         }

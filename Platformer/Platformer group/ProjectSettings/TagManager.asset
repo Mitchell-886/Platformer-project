@@ -9,6 +9,8 @@ TagManager:
   - PlayerBullet
   - Level
   - load
+  - Spike
+  - HealthSlider
   layers:
   - Default
   - TransparentFX
@@ -25,10 +27,10 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - EnemyBullet
+  - Enemy
+  - Player
+  - PlayerBullet
   - 
   - 
   - 
