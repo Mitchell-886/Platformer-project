@@ -11,6 +11,12 @@ TagManager:
   - load
   - Spike
   - HealthSlider
+  - L2
+  - L3
+  - L4
+  - HealthText
+  - Load
+  - win
   layers:
   - Default
   - TransparentFX
